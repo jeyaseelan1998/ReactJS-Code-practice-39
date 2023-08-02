@@ -1,1 +1,20 @@
-/* Write your CSS here */
+.planets-slider-container {
+  height: 100vh;
+  background-color: #111720;
+  padding-top: 45px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.slider-container {
+  padding: 40px;
+}
+
+.main-heading {
+  color: #05acff;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 32px;
+  margin-top: 0;
+}
